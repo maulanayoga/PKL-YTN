@@ -3,6 +3,7 @@
 <?= $this->section('content'); ?>
 
 <h3>Info Kegiatan</h3>
+<h1>HALO HABIB ANJENG JANCOK KNTL</h1>
 <p>Informasi Kegiatan Siswa Bulan Ini :</p>
 <ul>
     <li>10 Agustus - Masa Orientasi Siswa</li>
