@@ -10,6 +10,6 @@
 </ul>
 <p>Informasi Kegiatan Siswa Bulan Depan :</p>
 <ul>
-    <li>12 September - Ujian Tengah Semester lalala</li>
+    <li>12 September - Ujian Tengah Semester lalala HABIB ANJENG</li>
 </ul>
 <?= $this->endSection(); ?>
