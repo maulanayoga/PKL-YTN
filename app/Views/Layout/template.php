@@ -34,8 +34,8 @@
                     Produk
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="pernikahan.html">Pernikahan</a>
-                    <a class="dropdown-item" href="#">Wisuda</a>
+                    <a class="dropdown-item" href="produk.php">Pernikahan</a>
+                    <a class="dropdown-item" href="produk.php">Wisuda</a>
                 </div>
             </li>
         </ul>
