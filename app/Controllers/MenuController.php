@@ -30,6 +30,11 @@ class MenuController extends BaseController
         return view('info');
     }
 
+    public function produk_()
+    {
+        return view('produk');
+    }
+
 
     public function tambahMember()
     {

@@ -41,6 +41,8 @@ $routes->get('/home', 'MenuController::home');
 $routes->get('/data_member', 'MenuController::data_member');
 $routes->get('/info_kegiatan', 'MenuController::info_kegiatan');
 
+$routes->get('/produk_', 'MenuController::produk_');
+
 $routes->get('/registrasi', 'AuthController::registrasi');
 $routes->post('/registrasi/simpan-registrasi', 'AuthController::simpanRegistrasi');
 
