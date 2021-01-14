@@ -5,7 +5,7 @@
 <style>
     div.container {
                     margin-top : 30px;
-                    margin-bot : 30px;
+                    padding-bottom : 30px;
     
                  }
     .center {
