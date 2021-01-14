@@ -27,6 +27,9 @@
                     Terbentuknya toko edelweisflorist01 sendiri dari owner 
                     yang menyukai tentang bunga sehingga tertarik untuk berbisnis 
                     dalam bidang tersebut.</p>
+                <p> No. Telepon : +62 895 0539 0708 <p>
+                <p> Instagram : <a href="https://www.instagram.com/edelweisflorist01/" target="_blank">@edelweisflorist01</i></a> <p>
+
                 <p>Lokasi Toko :</p>
                 <p>Jl. Mejoyo No.11, Kali Rungkut, Kec. Rungkut, Kota SBY, Jawa Timur 60293</p>
 
