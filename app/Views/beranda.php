@@ -10,6 +10,7 @@
         <div class="carousel-item active">
             <img src="<?= base_url('assets/images/carousel.jpg') ?>" class="d-block w-100" height="600" alt="First slide">
             <div class="carousel-caption d-none d-md-block">
+            <img src="<?= base_url('assets/images/logotoko.png') ?>">
                 <h3 style="color: black;">Edelweisflorist Surabaya</h3>
                 <p style="color: black;">Semua macam tipe bunga ada disini</p>
             </div>
@@ -18,6 +19,7 @@
         <div class="carousel-item">
             <img src="<?= base_url('assets/images/carousel2.jpg') ?>" class=" d-block w-100" height="600" alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
+            <img src="<?= base_url('assets/images/logotoko.png') ?>">
                 <h3 style="color: black;">Semua Tersedia</h3>
                 <p style="color: black;">Berbagai bunga yang masih segar.</p>
             </div>
@@ -105,7 +107,12 @@
                     <p class="card-text">Rp500.000</p>
                     <p class="card-text"><small class="text-muted">Outlet Surabaya</small></p>
                 </div>
-            </div>
+            </div> 
         </div>
     </div>
+
+
+
     <?= $this->endSection(); ?>
+
+   
